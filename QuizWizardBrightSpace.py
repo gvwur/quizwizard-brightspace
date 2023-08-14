@@ -1,7 +1,7 @@
 import pandas as pd
 from datetime import datetime
 import os, random, string
-import numpy as np
+
 
 def transform_dataframe_mc(df):
     
